@@ -68,18 +68,6 @@
 
 - [Github](https://www.thunderclient.io/)
 
-## Enhanced With AI
+## Other HTTP tools
 
-### Query Documentation
-
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/plus/ai-help)
-- [Supabase](https://supabase.com/blog/chatgpt-supabase-docs)
-
-### Create Code
-
-- [Supabase](https://supabase.com/blog/chatgpt-supabase-docs) - create/debug SQL queries
-- [HTTPie](https://app.httpie.io/) - create HTTP requests
-
-## Other tools
-
-https://httpbin.org/#/Auth/get_basic_auth__user___passwd_
+- [httpbin.org](https://httpbin.org/) - test HTTP requests
