@@ -5,6 +5,7 @@
 |               | Hosted | CLI   | VS Code | Chrome | Desktop | OSS |
 | ------------- | ------ | ----- | ------- | ------ | ------- | --- |
 | Bruno         |        |       |         |        | ✓       | ✓   |
+| Curl          |        | ✓     |         |        |         | ✓   |
 | Hopscotch     | ✓      | ✓     |         |        | ✓[^1]   | ✓   |
 | Httpie        | ✓      | ✓     |         |        | ✓       | ✓   |
 | Insomnia      |        | ✓[^2] |         |        | ✓       | ✓   |
@@ -27,6 +28,11 @@
 ### [Bruno](https://github.com/usebruno/bruno)
 
 - [Github](https://github.com/usebruno/bruno)
+
+
+### [Curl](https://curl.se/)
+
+- [Github](https://github.com/curl/curl)
 
 ### [Hopscotch](https://docs.hoppscotch.io/)
 
